@@ -9,3 +9,4 @@
 参考项目：<br>
 https://github.com/eriklindernoren/PyTorch-YOLOv3<br>
 https://github.com/wenyyu/Image-Adaptive-YOLO<br>
+https://github.com/bubbliiiing/yolo3-pytorch<br>
